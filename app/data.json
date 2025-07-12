@@ -1,0 +1,20 @@
+[
+  {
+    "title": "The Ultimate Guide to Tailwind CSS v4: What's New and Improved",
+    "description": "Discover the latest features and improvements in Tailwind CSS v4 and how they can enhance your web development workflow.",
+    "author": "Sumit Saha",
+    "avatar": "https://learnwithsumit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finstructor.de111715.jpg&w=828&q=75",
+    "date": "May 14, 2025",
+    "category": "Web Development",
+    "content": "<p>Tailwind CSS has revolutionized the way developers...</p><h2>What's New in Tailwind CSS v4?</h2><ul><li>Improved performance</li><li>New color system</li></ul><p>End of article...</p>"
+  },
+  {
+    "title": "The Ultimate Guide to the React Compiler",
+    "author": "Sumit Saha",
+    "avatar": "https://learnwithsumit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finstructor.de111715.jpg&w=828&q=75",
+    "description": "<p>The React Compiler is a revolutionary optimization layer that analyzes and transforms your React code at build time. It unlocks automatic performance boosts by eliminating unnecessary re-renders—without changing how you write components.</p><h2>How the React Compiler Works</h2><ul><li>Analyzes component dependencies and reactivity</li><li>Automatically memoizes components when safe</li><li>Optimizes prop passing and re-render logic</li><li>Integrates tightly with React's existing runtime</li></ul><h3>Benefits for Developers</h3><p>With the compiler, developers get improved runtime performance without manual <code>useMemo</code> or <code>React.memo</code> boilerplate. It's designed to help you write idiomatic React code while getting the benefits of fine-grained reactivity for free.</p><h3>Looking Ahead</h3><p>Currently experimental, the React Compiler is part of the React team's vision for making performance the default. It will eventually integrate with frameworks like Next.js, providing seamless, compiler-level enhancements for real-world apps.</p>",
+    "date": "May 2, 2025",
+    "category": "Web Development",
+    "content": "<p>Tailwind CSS has revolutionized the way developers...</p><h2>What's New in Tailwind CSS v4?</h2><ul><li>Improved performance</li><li>New color system</li></ul><p>End of article...</p>"
+  }
+]

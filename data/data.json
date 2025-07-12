@@ -1,0 +1,186 @@
+[
+  {
+    "title": "The Ultimate Guide to Tailwind CSS v4: What's New and Improved",
+    "author": "Sumit Saha",
+    "authorAvatar": "https://learnwithsumit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finstructor.de111715.jpg&w=828&q=75",
+    "date": "May 1, 2025",
+    "category": "Web Development",
+    "description": "<p>Discover the latest features and improvements in <strong>Tailwind CSS v4</strong> and how they can enhance your web development workflow. This guide covers all the major changes and best practices to upgrade smoothly.</p>"
+  },
+  {
+    "title": "The Rise of AI in Content Creation: Opportunities and Challenges",
+    "author": "Saad Hasan",
+    "authorAvatar": "https://avatars.githubusercontent.com/u/22261152?v=4",
+    "date": "May 2, 2025",
+    "category": "AI",
+    "description": "<p>Explore how <strong>artificial intelligence</strong> is transforming content creation and what it means for writers and creators. Understand both the benefits and ethical concerns of using AI in creative industries.</p>"
+  },
+  {
+    "title": "The Ultimate Guide to the React Compiler",
+    "author": "Sumit Saha",
+    "authorAvatar": "https://learnwithsumit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finstructor.de111715.jpg&w=828&q=75",
+    "description": "<p>Learn everything you need to know about the <strong>React Compiler</strong>, its architecture, and how it optimizes your React applications. This guide is perfect for developers looking to deepen their understanding of React internals.</p>",
+    "date": "May 3, 2025",
+    "category": "Web Development"
+  },
+  {
+    "title": "The Future of Data Science in 2025",
+    "author": "Sumit Saha",
+    "authorAvatar": "https://learnwithsumit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finstructor.de111715.jpg&w=828&q=75",
+    "description": "<p>Data science is evolving rapidly, and 2025 promises to bring even more exciting advancements. From AI-driven analytics to automated data pipelines, discover what the future holds for data professionals.</p><h2>Key Trends</h2><ul><li>Increased automation in data processing</li><li>AI and machine learning integration</li><li>Focus on ethical AI and data privacy</li></ul><h3>Skills to Master</h3><p>Stay ahead by mastering tools like Python, R, and cloud platforms. Understanding AI ethics will also be crucial.</p>",
+    "date": "May 4, 2025",
+    "category": "Data Science"
+  },
+  {
+    "title": "Why Edge Computing Is the Future of the Internet",
+    "author": "Sumit Saha",
+    "authorAvatar": "https://learnwithsumit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finstructor.de111715.jpg&w=828&q=75",
+    "description": "<p>Edge computing is transforming the way data is processed by bringing computation closer to users. It's enabling real-time performance across industries from healthcare to IoT.</p><h2>Core Advantages</h2><ul><li>Lower latency for faster user experiences</li><li>Improved data privacy and localization</li><li>Reduced server load and bandwidth usage</li></ul><h3>Use Cases</h3><p>Think smart traffic lights, real-time video analytics, and autonomous vehicles — all powered by edge infrastructure.</p><h3>What's Next</h3><p>As 5G expands, edge computing will become a default architecture for responsive, intelligent applications.</p>",
+    "date": "May 4, 2025",
+    "category": "Technology"
+  },
+  {
+    "title": "Mastering Feature Engineering for Machine Learning",
+    "author": "Saad Hasan",
+    "authorAvatar": "https://avatars.githubusercontent.com/u/22261152?v=4",
+    "description": "<p>Feature engineering is the art of transforming raw data into meaningful inputs for machine learning models. This guide covers techniques to extract, select, and create features that improve model performance.</p><h2>Key Techniques</h2><ul><li>Normalization and scaling</li><li>Encoding categorical variables</li><li>Handling missing values</li></ul><h3>Advanced Methods</h3><p>Explore feature interactions, polynomial features, and domain-specific transformations to unlock hidden patterns in your data.</p>",
+    "date": "May 5, 2025",
+    "category": "Data Science"
+  },
+  {
+    "title": "A Beginner's Guide to Data Cleaning",
+    "author": "Sumit Saha",
+    "authorAvatar": "https://learnwithsumit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finstructor.de111715.jpg&w=828&q=75",
+    "description": "<p>Before you model anything, you need clean, reliable data. Data cleaning is the first and often most time-consuming step in any data science workflow.</p><h2>Common Data Issues</h2><ul><li>Missing values and incorrect formats</li><li>Duplicates and outliers</li><li>Inconsistent labels and encodings</li><li>Time zone or unit mismatches</li></ul><h3>Cleaning Techniques</h3><p>Use libraries like <code>pandas</code> and <code>numpy</code> to clean and preprocess data efficiently. Always visualize before and after cleaning to confirm changes.</p><h3>Why It's Critical</h3><p>Garbage in, garbage out — no model can fix fundamentally flawed data. Investing in proper cleaning ensures better outcomes and trustworthy insights.</p>",
+    "date": "May 5, 2025",
+    "category": "Data Science"
+  },
+  {
+    "title": "How Quantum Computing Is Redefining Problem Solving",
+    "author": "Sumit Saha",
+    "authorAvatar": "https://learnwithsumit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finstructor.de111715.jpg&w=828&q=75",
+    "description": "<p>Quantum computing isn't just theoretical anymore. With breakthroughs in qubit stability and quantum error correction, we're closer than ever to real-world applications.</p><h2>What Makes It Different</h2><ul><li>Massive parallelism via superposition</li><li>Complex problem solving beyond classical limits</li><li>Potential to transform cryptography and material science</li></ul><h3>Where It's Headed</h3><p>Companies like IBM and Google are racing toward quantum advantage — solving problems no classical computer can handle efficiently.</p><h3>Why It Matters</h3><p>Quantum computing will reshape security, AI, drug discovery, and logistics optimization over the next decade.</p>",
+    "date": "May 6, 2025",
+    "category": "Technology"
+  },
+  {
+    "title": "The Rise of AI Co-Pilots in Everyday Software",
+    "author": "Saad Hasan",
+    "authorAvatar": "https://avatars.githubusercontent.com/u/22261152?v=4",
+    "description": "<p>AI co-pilots are becoming integral to software applications, enhancing productivity and user experience. From code suggestions in IDEs to smart email drafting, AI is changing how we interact with technology.</p><h2>Key Features</h2><ul><li>Context-aware suggestions</li><li>Natural language processing for intuitive commands</li><li>Learning from user behavior for personalized experiences</li></ul><h3>Impact on Workflows</h3><p>AI co-pilots are not just tools; they are collaborators that can automate repetitive tasks and provide insights, allowing users to focus on higher-level decision-making.</p>",
+    "date": "May 7, 2025",
+    "category": "Technology"
+  },
+  {
+    "title": "The Role of Blockchain Beyond Cryptocurrency",
+    "author": "Sumit Saha",
+    "authorAvatar": "https://learnwithsumit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finstructor.de111715.jpg&w=828&q=75",
+    "description": "<p>Blockchain technology is revolutionizing industries beyond finance. Its decentralized, transparent nature is being applied in supply chain management, healthcare, and digital identity verification.</p><h2>Core Benefits</h2><ul><li>Enhanced security through immutability</li><li>Increased transparency and traceability</li><li>Reduced fraud and operational costs</li></ul><h3>Use Cases</h3><p>From tracking food safety to securing medical records, blockchain's potential is vast and growing.</p>",
+    "date": "May 8, 2025",
+    "category": "Technology"
+  },
+  {
+    "title": "How Augmented Reality is Changing Everyday Life",
+    "author": "Sumit Saha",
+    "authorAvatar": "https://learnwithsumit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finstructor.de111715.jpg&w=828&q=75",
+    "description": "<p>Augmented Reality (AR) is no longer a niche trend — it's shaping how we shop, learn, and communicate in real time through interactive, digital overlays.</p><h2>Everyday Use Cases</h2><ul><li>Try-before-you-buy in e-commerce</li><li>Interactive learning in classrooms</li><li>Navigation and translation on the go</li></ul><h3>AR in the Enterprise</h3><p>Industries like healthcare, real estate, and manufacturing are leveraging AR for training, remote assistance, and visual planning.</p><h3>The Road Ahead</h3><p>With advances in wearable tech and spatial computing, AR is set to become as ubiquitous as smartphones.</p>",
+    "date": "May 11, 2025",
+    "category": "Technology"
+  },
+  {
+    "title": "Interior Design Basics",
+    "author": "Saad Hasan",
+    "authorAvatar": "https://avatars.githubusercontent.com/u/22261152?v=4",
+    "description": "<p>Transform your living space with fundamental interior design principles and techniques.</p><h2>Key Concepts</h2><ul><li>Color theory</li><li>Space planning</li><li>Furniture arrangement</li><li>Lighting design</li></ul>",
+    "date": "May 12, 2025",
+    "category": "Design"
+  },
+  {
+    "title": "Basic Car Maintenance",
+    "author": "Saad Hasan",
+    "authorAvatar": "https://avatars.githubusercontent.com/u/22261152?v=4",
+    "description": "<p>Learn essential car maintenance skills to keep your vehicle running smoothly and save on repair costs.</p><h2>Maintenance Tasks</h2><ul><li>Oil changes</li><li>Tire maintenance</li><li>Battery care</li><li>Fluid checks</li></ul>",
+    "date": "May 13, 2025",
+    "category": "Automative"
+  },
+  {
+    "title": "Digital Marketing Essentials",
+    "author": "Saad Hasan",
+    "authorAvatar": "https://avatars.githubusercontent.com/u/22261152?v=4",
+    "description": "<p>Master the fundamentals of digital marketing to grow your business online effectively.</p><h2>Core Strategies</h2><ul><li>SEO basics</li><li>Social media marketing</li><li>Email campaigns</li><li>Content marketing</li></ul>",
+    "date": "May 14, 2025",
+    "category": "Marketing"
+  },
+  {
+    "title": "Building a Machine Learning Pipeline: Step-by-Step",
+    "author": "Sumit Saha",
+    "authorAvatar": "https://learnwithsumit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finstructor.de111715.jpg&w=828&q=75",
+    "description": "<p>Successful ML models require more than just training code — they need a pipeline that automates data flow, transformation, training, and evaluation.</p><h2>Typical Pipeline Stages</h2><ul><li>Data collection and preprocessing</li><li>Feature selection and transformation</li><li>Model training and validation</li><li>Deployment and monitoring</li></ul><h3>Tools and Frameworks</h3><p>Use tools like Scikit-learn Pipelines, MLflow, or Kubeflow to orchestrate and manage your workflow efficiently.</p><h3>Why Pipelines Matter</h3><p>They reduce human error, ensure reproducibility, and speed up experimentation — key for production-grade ML.</p>",
+    "date": "May 14, 2025",
+    "category": "AI"
+  },
+  {
+    "title": "Introduction to Digital Photography",
+    "author": "Sumit Saha",
+    "authorAvatar": "https://learnwithsumit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finstructor.de111715.jpg&w=828&q=75",
+    "description": "<p>Master the fundamentals of digital photography and transform your images from amateur to professional quality.</p><h2>Essential Skills</h2><ul><li>Understanding exposure</li><li>Composition techniques</li><li>Lighting basics</li><li>Post-processing</li></ul>",
+    "date": "May 15, 2025",
+    "category": "Photography"
+  },
+  {
+    "title": "The Future of Renewable Energy",
+    "author": "Sumit Saha",
+    "authorAvatar": "https://learnwithsumit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finstructor.de111715.jpg&w=828&q=75",
+    "description": "<p>Explore the latest advancements in renewable energy technologies and their impact on global sustainability efforts.</p><h2>Key Innovations</h2><ul><li>Solar energy breakthroughs</li><li>Wind power efficiency</li><li>Energy storage solutions</li></ul>",
+    "date": "May 16, 2025",
+    "category": "Environment"
+  },
+  {
+    "title": "The Basics of Graphic Design",
+    "author": "Saad Hasan",
+    "authorAvatar": "https://avatars.githubusercontent.com/u/22261152?v=4",
+    "description": "<p>Learn the foundational principles of graphic design to create visually appealing and effective designs.</p><h2>Core Principles</h2><ul><li>Color theory</li><li>Typography</li><li>Layout and composition</li><li>Branding basics</li></ul>",
+    "date": "May 17, 2025",
+    "category": "Design"
+  },
+  {
+    "title": "Introduction to Python Programming",
+    "author": "Saad Hasan",
+    "authorAvatar": "https://avatars.githubusercontent.com/u/22261152?v=4",
+    "description": "<p>Get started with Python, one of the most popular programming languages, and learn how to build your first applications.</p><h2>Key Topics</h2><ul><li>Basic syntax and data types</li><li>Control structures</li><li>Functions and modules</li><li>File handling</li></ul>",
+    "date": "May 18, 2025",
+    "category": "Programming"
+  },
+  {
+    "title": "Understanding Cybersecurity Fundamentals",
+    "author": "Saad Hasan",
+    "authorAvatar": "https://avatars.githubusercontent.com/u/22261152?v=4",
+    "description": "<p>Learn the essential concepts of cybersecurity to protect your digital assets and understand common threats.</p><h2>Core Topics</h2><ul><li>Types of cyber threats</li><li>Network security basics</li><li>Data protection strategies</li></ul>",
+    "date": "May 19, 2025",
+    "category": "Cybersecurity"
+  },
+  {
+    "title": "The Art of Public Speaking",
+    "author": "Saad Hasan",
+    "authorAvatar": "https://avatars.githubusercontent.com/u/22261152?v=4",
+    "description": "<p>Master the skills of effective public speaking to engage and inspire your audience.</p><h2>Key Techniques</h2><ul><li>Speech preparation</li><li>Body language and voice modulation</li><li>Overcoming stage fright</li></ul>",
+    "date": "May 20, 2025",
+    "category": "Communication"
+  },
+  {
+    "title": "The Art of Creative Writing",
+    "author": "Sumit Saha",
+    "authorAvatar": "https://learnwithsumit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finstructor.de111715.jpg&w=828&q=75",
+    "description": "<p>Unlock your creative potential through the power of storytelling. Learn essential techniques to craft compelling narratives that captivate readers.</p><h2>Key Elements</h2><ul><li>Character development</li><li>Plot structure</li><li>World-building</li><li>Dialogue crafting</li></ul>",
+    "date": "May 15, 2025",
+    "category": "Writing"
+  },
+  {
+    "title": "The Future of Space Exploration",
+    "author": "Sumit Saha",
+    "authorAvatar": "https://learnwithsumit.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finstructor.de111715.jpg&w=828&q=75",
+    "description": "<p>Explore the latest advancements in space exploration, from Mars missions to the search for extraterrestrial life.</p><h2>Key Topics</h2><ul><li>Current space missions</li><li>Technological innovations</li><li>Future prospects</li></ul>",
+    "date": "May 21, 2025",
+    "category": "Space"
+  }
+]
