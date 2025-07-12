@@ -1,37 +1,95 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# LWS Blogify
+
+A Next.js SSR blog project.  
+This project demonstrates server-side rendering, dynamic routing, filtering, and sorting using local JSON data.
+
+---
+
+## Live Demo
+
+[View the live site here](https://reactive-blogify.vercel.app/)
+
+## Features
+
+- **Server-side rendering** for all pages
+
+- **Blog list** on the home page, fetched from `data.json`
+
+- **Dynamic blog details** page with slug-based routing
+
+- **Category filtering** with multi-select and toggle (SSR)
+
+- **Sort by date** (latest/oldest), SSR
+
+- **Recommended blogs** section on details page
+
+- **404 Not Found** handling for invalid blog URLs
+
+- **Accessible** and responsive UI
+
+---
 
 ## Getting Started
 
-First, run the development server:
+### 1. Clone the repository
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```sh
+git clone https://github.com/shajjadabir/lws-blogify.git
+cd lws-blogify
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Install dependencies
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```sh
+npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### 3. Run the development server
 
-## Learn More
+```sh
+npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Project Structure
 
-## Deploy on Vercel
+```
+/app
+  /blog/[slug]/page.js   # Blog details page (SSR)
+  /page.js               # Home page (SSR)
+  /layout.js             # App layout
+/components
+  BlogCard.jsx
+  CategoryList.jsx
+  SortDropDown.jsx
+  BookmarkIcon.jsx
+  HamburgerIcon.jsx
+/utils
+  getExcerpt.js
+/lib
+  getBlogs.js
+/public
+  /assets/logo.svg
+  data.json              # Blog data source
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# reactive-Blogify
+## Key Implementation Details
+
+- **SSR Filtering & Sorting:**  
+  All filtering and sorting is handled on the server using query parameters.
+
+- **Dynamic Routing:**  
+  Blog details pages are generated using slugs derived from blog titles.
+
+- **Category & Sort State:**  
+  Reflected in the URL for shareable and reloadable state.
+
+- **Blog Description:**  
+  Rendered with `dangerouslySetInnerHTML` for HTML content.
+
+---
