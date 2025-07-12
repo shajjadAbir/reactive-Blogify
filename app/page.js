@@ -1,6 +1,7 @@
 import BlogCard from "@/components/BlogCard";
 import CategoryList from "@/components/CategoryList";
-import SortDropdown from "@/components/SortDropdown";
+import SortDropdown from "@/components/SortDropDown";
+
 import { generateSlug, getBlogs } from "@/lib/getBlogs";
 
 const parseDate = (str) => {
